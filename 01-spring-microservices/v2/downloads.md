@@ -16,8 +16,9 @@ Follow these steps to get ready for the course!
 
 - [Github Repository](https://github.com/in28minutes/spring-microservices-v2)
 
-## STEP 4 (OPTIONAL) : Follow Ranga
+## STEP 4 (OPTIONAL) : Subscribe and Follow Us
 
+- [YouTube] (http://youtube.com/rithustutorials?sub_confirmation=1)
 - [LinkedIn](https://www.linkedin.com/posts/rangakaranam_thank-you-keep-learning-every-day-our-activity-6687560624949485569-1Wic)
 - [Twitter](https://twitter.com/in28minutes)
 
