@@ -14,7 +14,7 @@ We are really excited that you chose to pursue this course.
 
 - [Github Repository](https://github.com/in28minutes/spring-microservices-v2)
 
-## (OPTIONAL) STEP 4 : Follow us
+## STEP 4 (OPTIONAL) : Follow us
 
 - [LinkedIn](https://www.linkedin.com/posts/rangakaranam_thank-you-keep-learning-every-day-our-activity-6687560624949485569-1Wic)
 - [Twitter](https://twitter.com/in28minutes)
