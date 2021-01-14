@@ -1,12 +1,21 @@
 # Master Microservice with Spring Boot and Spring Cloud
 
-We are really excited that you chose to pursue this course. 
+We are really excited that you chose to pursue this course.
 
-## Step 1 : Download the Presentation
+## STEP 1 : Download Course Presentation
 
-## Step 2 : Download the Code Examples
+- [Download Presentation](https://github.com/in28minutes/course-material/raw/main/01-spring-microservices/v2/Microservices-V2-presentation.pdf)
 
-## (OPTIONAL) Step 3 : Follow us
+## STEP 2 : Download Code
 
-## (OPTIONAL) Step 3 : Subscribe for all updates
+- [Download Code](https://github.com/in28minutes/spring-microservices-v2/archive/main.zip)
+
+## STEP 3 : Bookmark Course Github Repository
+
+- [Github Repository](https://github.com/in28minutes/spring-microservices-v2)
+
+## (OPTIONAL) STEP 4 : Follow us
+
+- [LinkedIn](https://www.linkedin.com/posts/rangakaranam_thank-you-keep-learning-every-day-our-activity-6687560624949485569-1Wic)
+- [Twitter](https://twitter.com/in28minutes)
 
