@@ -1,8 +1,8 @@
 # Master Microservice with Spring Boot and Spring Cloud
 
-We are really excited that you chose to pursue this course.
+Thank You for Choosing to Learn from in28Minutes
 
-We are providing amazing learning experiences to half a million learners around the world.
+Follow these steps to get ready for the course!
 
 ## STEP 1 : Presentation
 
@@ -16,7 +16,7 @@ We are providing amazing learning experiences to half a million learners around 
 
 - [Github Repository](https://github.com/in28minutes/spring-microservices-v2)
 
-## STEP 4 (OPTIONAL) : Follow us
+## STEP 4 (OPTIONAL) : Follow Ranga
 
 - [LinkedIn](https://www.linkedin.com/posts/rangakaranam_thank-you-keep-learning-every-day-our-activity-6687560624949485569-1Wic)
 - [Twitter](https://twitter.com/in28minutes)
