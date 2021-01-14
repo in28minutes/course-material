@@ -2,15 +2,15 @@
 
 We are really excited that you chose to pursue this course.
 
-## STEP 1 : Download Course Presentation
+## STEP 1 : Presentation
 
 - [Download Presentation](https://github.com/in28minutes/course-material/raw/main/01-spring-microservices/v2/Microservices-V2-presentation.pdf)
 
-## STEP 2 : Download Code
+## STEP 2 : Code Examples
 
 - [Download Code](https://github.com/in28minutes/spring-microservices-v2/archive/main.zip)
 
-## STEP 3 : Bookmark Course Github Repository
+## STEP 3 : Bookmark Github Repository
 
 - [Github Repository](https://github.com/in28minutes/spring-microservices-v2)
 
