@@ -2,10 +2,6 @@
 
 Thank You for Choosing to Learn from in28Minutes.
 
-I love Programming. One of the aims I had when I started ```in28minutes``` was to make learning programming easy.
-
-At **In28Minutes**, we ask ourselves one question every day: "How do we create awesome learning experiences?"
-
 We have created an amazing course guide to help you make the best use of the course. Follow these steps to get ready for the course!
 
 ## STEP 1 : Course Guide
