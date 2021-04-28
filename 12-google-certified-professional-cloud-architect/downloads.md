@@ -10,7 +10,7 @@ Follow these steps to get ready for the course!
 
 ## STEP 2 : Download Artifacts
 
-- [Download Artifacts](https://github.com/in28minutes/course-material/raw/main/12-google-certified-professional-cloud-architect/course-downloads.zip)
+- [Download Artifacts](https://github.com/in28minutes/course-material/raw/main/12-google-certified-professional-cloud-architect/downloads.zip)
 
 ## STEP 3 (OPTIONAL) : Subscribe and Follow Us
 
