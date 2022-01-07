@@ -15,7 +15,6 @@ Follow these steps to get ready for the course!
 ## STEP 3 (OPTIONAL) : Subscribe and Follow Us
 
 
-- [YouTube](http://youtube.com/rithustutorials?sub_confirmation=1)
-- [LinkedIn](https://www.linkedin.com/posts/rangakaranam_thank-you-keep-learning-every-day-our-activity-6687560624949485569-1Wic)
-- [Twitter](https://twitter.com/in28minutes)
+- 1: [Join 100K+ Subscribers on YouTube](http://youtube.com/user/rithustutorials?sub_confirmation=1)
+- 2: [Join 25K+ Followers of Ranga on LinkedIn](https://www.linkedin.com/posts/rangakaranam_thank-you-keep-learning-every-day-our-activity-6687560624949485569-1Wic)
 
