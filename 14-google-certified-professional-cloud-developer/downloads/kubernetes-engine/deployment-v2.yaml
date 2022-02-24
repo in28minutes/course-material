@@ -1,0 +1,64 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: hello-world-rest-api
+    version: v1
+  name: hello-world-rest-api-v1
+  namespace: default
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: hello-world-rest-api
+      version: v1
+  template:
+    metadata:
+      labels:
+        app: hello-world-rest-api
+        version: v1
+    spec:
+      containers:
+      - image: in28min/hello-world-rest-api:0.0.1.RELEASE
+        name: hello-world-rest-api
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: hello-world-rest-api
+    version: v2
+  name: hello-world-rest-api-v2
+  namespace: default
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: hello-world-rest-api
+      version: v2
+  template:
+    metadata:
+      labels:
+        app: hello-world-rest-api
+        version: v2
+    spec:
+      containers:
+      - image: in28min/hello-world-rest-api:0.0.2.RELEASE
+        name: hello-world-rest-api
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: hello-world-rest-api
+  name: hello-world-rest-api
+  namespace: default
+spec:
+  ports:
+  - port: 8080
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: hello-world-rest-api
+  sessionAffinity: None
+  type: LoadBalancer
