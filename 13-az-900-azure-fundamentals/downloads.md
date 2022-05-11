@@ -1,8 +1,8 @@
 # AZ 900 - Azure Fundamentals
 
-Thank You for Choosing to Learn from in28Minutes
+Thank You for Choosing to Learn from in28Minutes.
 
-Follow these steps to get ready for the course!
+Two Simple Steps to get started.
 
 ## STEP 1 : Presentation
 
