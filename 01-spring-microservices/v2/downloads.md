@@ -1,6 +1,6 @@
 # Master Microservice with Spring Boot and Spring Cloud
 
-🙏 Thank You for Choosing to Learn from in28Minutes.
+Thank You for Choosing to Learn from in28Minutes.
 
 🎯 YOUR SUCCESS = OUR SUCCESS!
 

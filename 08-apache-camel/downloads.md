@@ -1,6 +1,6 @@
 # Learn Apache Camel Framework with Spring Boot
 
-🙏 Thank You for Choosing to Learn from in28Minutes.
+Thank You for Choosing to Learn from in28Minutes.
 
 🎯 YOUR SUCCESS = OUR SUCCESS!
 

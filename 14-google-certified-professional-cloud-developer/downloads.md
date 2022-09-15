@@ -1,6 +1,6 @@
 # Google Cloud Certification - Professional Cloud Developer
 
-🙏 Thank You for Choosing to Learn from in28Minutes.
+Thank You for Choosing to Learn from in28Minutes.
 
 🎯 YOUR SUCCESS = OUR SUCCESS!
 

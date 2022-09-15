@@ -1,6 +1,6 @@
 # AZ 900 - Azure Fundamentals
 
-🙏 Thank You for Choosing to Learn from in28Minutes.
+Thank You for Choosing to Learn from in28Minutes.
 
 🎯 YOUR SUCCESS = OUR SUCCESS!
 

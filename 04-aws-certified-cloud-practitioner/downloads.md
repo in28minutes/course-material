@@ -1,6 +1,6 @@
 # AWS Certified Cloud Practitioner
 
-🙏 Thank You for Choosing to Learn from in28Minutes.
+Thank You for Choosing to Learn from in28Minutes.
 
 🎯 YOUR SUCCESS = OUR SUCCESS!
 
