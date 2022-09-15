@@ -1,10 +1,10 @@
 # AWS Interview Guide
 
-Thank You for Choosing to Learn from in28Minutes.
+🙏 Thank You for Choosing to Learn from in28Minutes.
 
-YOUR SUCCESS = OUR SUCCESS!
+🎯 YOUR SUCCESS = OUR SUCCESS!
 
-Follow these Steps to get ready for the course!
+👉 Follow these Steps to get ready for the course!
 
 ## Step 0️⃣ : Follow Ranga on LinkedIn
 

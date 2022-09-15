@@ -2,7 +2,7 @@
 
 Thank You for Choosing to Learn from in28Minutes
 
-Follow these Steps to get ready for the course!
+👉 Follow these Steps to get ready for the course!
 
 ## Step 0️⃣ : Follow Ranga on LinkedIn
 
