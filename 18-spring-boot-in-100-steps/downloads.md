@@ -6,14 +6,14 @@ YOUR SUCCESS = OUR SUCCESS!
 
 Follow these steps to get ready for the course!
 
-## STEP 0 : Follow Ranga on LinkedIn
+## Step 0️⃣ : Follow Ranga on LinkedIn
 
 - [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
 
-## STEP 1 : Bookmark Github Repository of the Course
+## STEP 1️⃣ : Bookmark Github Repository of the Course
 
 - [Bookmark Github Repo](https://github.com/in28minutes/spring-boot-master-class)
 
-## STEP 2 : Download Course Presentations
+## STEP 2️⃣ : Download Course Presentations
 
 - [Download Presentations](https://github.com/in28minutes/course-material/raw/main/18-spring-boot-in-100-steps/presentations.zip)

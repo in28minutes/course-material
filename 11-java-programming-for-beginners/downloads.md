@@ -6,14 +6,14 @@ YOUR SUCCESS = OUR SUCCESS!
 
 Follow these steps to get ready for the course!
 
-## STEP 0 : Follow Ranga on LinkedIn
+## Step 0️⃣ : Follow Ranga on LinkedIn
 
 - [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
 
-## STEP 1 : Course Guide
+## STEP 1️⃣ : Course Guide
 
 - [Download Course Guide](https://github.com/in28minutes/course-material/raw/main/11-java-programming-for-beginners/JavaProgrammingForBeginners-CourseBook.pdf)
 
-## STEP 2 : Course Presentation
+## STEP 2️⃣ : Course Presentation
 
 - [Download Presentation](https://github.com/in28minutes/course-material/raw/main/11-java-programming-for-beginners/JavaProgrammingForBeginners-Presentation.pdf)
