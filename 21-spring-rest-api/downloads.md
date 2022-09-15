@@ -13,3 +13,16 @@
 ## Step 1️⃣ : Presentation
 
 - [Download Presentation](https://github.com/in28minutes/course-material/raw/main/21-spring-rest-api/building-rest-api-with-spring-boot-in28minutes-presentation.pdf)
+
+## 📣 Learning Tips
+
+① Be Consistent (📅 Schedule and Learn every day!)
+
+② Take Notes (✍️ When you learn something new, write it down)
+
+③ Review Regularly (🕒 At least every few days)
+
+④ Share Your Learning (📣 Discuss your learning with friends)
+
+⑤ to ⑨⑨ Have Fun (🏆)
+
