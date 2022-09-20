@@ -16,4 +16,4 @@ Thank You for Choosing to Learn from in28Minutes.
 
 ## Step 2️⃣ : Download Course Presentations
 
-- [Download Presentations](https://github.com/in28minutes/course-material/raw/main/18-spring-boot-in-100-Steps/presentations.zip)
+- [Download Presentations](https://github.com/in28minutes/course-material/raw/main/18-spring-boot-in-100-steps/presentations.zip)
