@@ -1,4 +1,4 @@
-# Exam Review - AWS Certified Solution Architect Associate
+# Building REST API with SPRING BOOT
 
 Thank You for Choosing to Learn from in28Minutes.
 
@@ -12,4 +12,4 @@ Thank You for Choosing to Learn from in28Minutes.
 
 ## Step 1️⃣ : Presentation
 
-- [Download Presentation](https://github.com/in28minutes/course-material/raw/main/05-exam-review-aws-certified-solution-architect-associate/EXAMREVIEW-AWSCertifiedSolutionArchitectAssociate-Presentation.pdf)
+- [Download Presentation](https://github.com/in28minutes/course-material/raw/main/21-spring-rest-api/building-rest-api-with-spring-boot-in28minutes-presentation.pdf)
