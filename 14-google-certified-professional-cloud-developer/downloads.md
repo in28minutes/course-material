@@ -6,14 +6,14 @@ Thank You for Choosing to Learn from in28Minutes.
 
 👉 Follow these Steps to get ready for the course!
 
-## Step 0️⃣ : Follow Ranga on LinkedIn
+## Step 1️⃣ : Presentation - Part 1
 
-- [Join 30,000+ Followers of Ranga on LinkedIn](https://links.in28minutes.com/lin)
+- [Download Presentation](https://github.com/in28minutes/course-material/raw/main/14-google-certified-professional-cloud-developer/Course-Presentation-GoogleCloudProfessionalCloudDeveloper-v2.pdf)
 
-## Step 1️⃣ : Presentation
+## Step 2️⃣ : Presentation - Part 2
 
 - [Download Presentation](https://github.com/in28minutes/course-material/raw/main/14-google-certified-professional-cloud-developer/Course-Presentation-GoogleCloudProfessionalCloudDeveloper.pdf)
 
-## Step 2️⃣ : Download Artifacts
+## Step 3️⃣ : Download Artifacts
 
 - [Download Artifacts](https://github.com/in28minutes/course-material/raw/main/14-google-certified-professional-cloud-developer/downloads.zip)
